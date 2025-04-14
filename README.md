@@ -1,15 +1,14 @@
 # Analisis-de-algoritmos
 
-TAREA 
-RESUMEN DE LOS SIGUIENTES TEMAS 
+TAREA RESUMEN DE LOS SIGUIENTES TEMAS 
 
-1. Algoritmo:
+- Algoritmo:
 Un algoritmo es una secuencia finita de pasos bien definidos que permiten resolver un problema específico. Su principal objetivo es transformar un conjunto de entradas en un conjunto de salidas de manera eficiente y precisa. Los algoritmos son fundamentales en la informática y en aplicaciones prácticas como el ordenamiento, la búsqueda, el cifrado y la optimización de recursos​.
 
-2. Algoritmia:
+- Algoritmia:
 La algorítmica se refiere al estudio y diseño de algoritmos. Su importancia radica en optimizar el uso de recursos computacionales (tiempo y espacio). La algorítmica también se enfoca en el análisis de la eficiencia de los algoritmos, buscando mejorar su rendimiento para que puedan aplicarse de manera más efectiva en diversas áreas, como redes, análisis de datos y bioinformática​.
 
-3. Tipos de Análisis:
+- Tipos de Análisis:
 El análisis de algoritmos es crucial para entender su comportamiento y eficiencia. Existen varios tipos de análisis:
 Análisis en el mejor caso: Evalúa el rendimiento del algoritmo en la situación más favorable.
 Análisis en el peor caso: Examina el peor escenario posible, donde el algoritmo tarda más tiempo en ejecutarse.
