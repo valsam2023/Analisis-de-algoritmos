@@ -3,7 +3,7 @@
 TAREA 
 RESUMEN DE LOS SIGUIENTES TEMAS 
 
-1. Algoritmia elemental
+.1. Algoritmia elemental
 Los algoritmos son procedimientos computacionales bien definidos que transforman entradas en salidas. Son fundamentales para resolver problemas en ciencias de la computación y tienen aplicaciones prácticas en áreas como búsqueda en internet, biología computacional, encriptación y rutas de navegación. Se consideran una tecnología tan importante como el hardware o los sistemas operativos. Un algoritmo se evalúa no solo por su corrección, sino también por su eficiencia, medida en tiempo y espacio. El análisis de algoritmos permite comparar distintas soluciones para un mismo problema y seleccionar la más óptima. Además, algunos algoritmos están diseñados para casos promedio, mientras que otros priorizan el peor caso. Estudiar algoritmos proporciona herramientas para resolver problemas no conocidos previamente.
 
 1.1. Preliminares
