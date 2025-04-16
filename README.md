@@ -2,6 +2,8 @@
 
 TAREA RESUMEN DE LOS SIGUIENTES TEMAS 
 
+CLASE SEMANA 1
+
 - Algoritmo:
 Un algoritmo es una secuencia finita de pasos bien definidos que permiten resolver un problema específico. Su principal objetivo es transformar un conjunto de entradas en un conjunto de salidas de manera eficiente y precisa. Los algoritmos son fundamentales en la informática y en aplicaciones prácticas como el ordenamiento, la búsqueda, el cifrado y la optimización de recursos​.
 
@@ -31,6 +33,8 @@ La notación asintótica permite describir el comportamiento de algoritmos cuand
 1.1.2. Contradicción
 
 El método de prueba por contradicción es una técnica lógica fundamental en matemáticas y algoritmia. Consiste en suponer que una afirmación es falsa y demostrar que esa suposición lleva a una contradicción lógica. Esto prueba que la afirmación original debe ser verdadera. Es muy utilizada en demostraciones de unicidad, imposibilidad o para validar propiedades de algoritmos. Este tipo de razonamiento es común cuando no se puede construir una prueba directa. También es una herramienta poderosa en teoría de números y análisis de estructuras algorítmicas.
+
+CLASE SEMANA 2
 
 1.1.3. Introducción matemática
 
