@@ -121,3 +121,34 @@ Una operación elemental es cualquier acción básica que realiza un algoritmo y
 
 ## TALLER (Ejercicios en clase)
 
+
+## CLASE SEMANA 4
+
+### 2.1. Notación para el "orden de"
+
+La notación del “orden de” o notación asintótica permite describir el crecimiento del tiempo de ejecución o uso de memoria de un algoritmo según el tamaño de su entrada. Las funciones se expresan en términos de su comportamiento para valores grandes de n, ignorando constantes y términos de menor orden. Las notaciones más comunes son O (mayor o igual), Ω (menor o igual) y Θ (igual), que permiten comparar la eficiencia relativa entre algoritmos. Esta notación es esencial para clasificar algoritmos independientemente del lenguaje o hardware en que se ejecuten. Gracias a ella, es posible prever el rendimiento de soluciones ante entradas grandes.
+
+![image](https://github.com/user-attachments/assets/4fa56cb0-034b-4612-a101-403d32dbb27c)
+
+
+##  CLASE SEMANA 5
+
+### 2.2. Notación Omega
+
+La notación Ω (Omega) se usa para expresar una cota inferior del tiempo de ejecución de un algoritmo, es decir, el mínimo tiempo garantizado que tomará el algoritmo en función del tamaño de entrada n. Si un algoritmo pertenece a Ω(g(n)), significa que no puede ser más rápido que g(n) en el mejor de los casos. Es útil para determinar cuán rápido puede ejecutarse un algoritmo idealmente. Aunque menos usada que la notación O, es clave para entender el límite de eficiencia inferior. También permite evaluar si un algoritmo es óptimo comparado con la mejor solución posible.
+
+![image](https://github.com/user-attachments/assets/097f991f-f81c-4252-ba50-013a841e590d)
+
+
+### 2.3. Notación Theta
+
+La notación Θ (Theta) representa una cota ajustada, indicando que una función de complejidad crece a la misma velocidad que g(n) tanto en el mejor como en el peor caso. Si un algoritmo es Θ(g(n)), entonces su eficiencia está completamente descrita por g(n), sin desviaciones significativas hacia arriba o abajo. Esta notación es especialmente útil cuando el comportamiento del algoritmo es consistente. Es más precisa que O o Ω por separado, ya que marca el crecimiento exacto. Por ello, es la preferida cuando se puede demostrar esa equivalencia fuerte.
+
+![image](https://github.com/user-attachments/assets/775817ca-32ac-40de-880a-d5acf47f444d)
+
+
+### 2.4. Notación asintótica condicional
+
+La notación asintótica condicional se utiliza cuando el análisis depende de suposiciones específicas sobre las entradas o condiciones del algoritmo. A diferencia de las notaciones generales, aquí se considera que ciertas condiciones deben cumplirse para que la función de complejidad estimada sea válida. Por ejemplo, el rendimiento promedio puede depender de una distribución uniforme de los datos. Esta notación permite análisis más realistas o precisos, aunque menos generales. Es útil para algoritmos cuyo comportamiento varía significativamente según el caso.
+
+![image](https://github.com/user-attachments/assets/ab559518-8b12-4f9e-8418-c8816458600d)
