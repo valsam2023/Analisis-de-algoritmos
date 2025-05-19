@@ -151,4 +151,14 @@ La notación Θ (Theta) representa una cota ajustada, indicando que una función
 
 La notación asintótica condicional se utiliza cuando el análisis depende de suposiciones específicas sobre las entradas o condiciones del algoritmo. A diferencia de las notaciones generales, aquí se considera que ciertas condiciones deben cumplirse para que la función de complejidad estimada sea válida. Por ejemplo, el rendimiento promedio puede depender de una distribución uniforme de los datos. Esta notación permite análisis más realistas o precisos, aunque menos generales. Es útil para algoritmos cuyo comportamiento varía significativamente según el caso.
 
-![image](https://github.com/user-attachments/assets/ab559518-8b12-4f9e-8418-c8816458600d)
+![image](https://github.com/user-attachments/assets/ab559518-8b12-4f9e-8418-c8816458600d) 
+
+
+##  CLASE SEMANA 5
+
+### 3.1 Estructuras de control
+
+Las estructuras de control son componentes esenciales en todo algoritmo, ya que definen el flujo lógico que sigue un conjunto de instrucciones para resolver un problema. Existen tres tipos principales: la estructura secuencial, donde las instrucciones se ejecutan en el orden en que están escritas; la estructura condicional o de decisión, que permite ejecutar ciertos bloques de código solo si se cumple una condición (por ejemplo, mediante sentencias if, else if y else); y la estructura repetitiva o iterativa, que permite ejecutar instrucciones múltiples veces, como en los bucles while, for o repeat-until. Estas estructuras posibilitan que un algoritmo se adapte a diferentes situaciones y datos de entrada. Gracias a ellas, se logra que los algoritmos no sean rígidos, sino dinámicos y eficientes. Además, permiten implementar soluciones complejas a partir de decisiones simples, mejorando la legibilidad y mantenimiento del código. El correcto uso de estas estructuras evita errores lógicos y redundancias. Son fundamentales tanto para la comprensión como para la construcción de algoritmos eficientes y reutilizables.
+
+![image](https://github.com/user-attachments/assets/e1e4e482-a194-4a2a-9d3a-9afeee879457)
+
