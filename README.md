@@ -151,4 +151,38 @@ La notación Θ (Theta) representa una cota ajustada, indicando que una función
 
 La notación asintótica condicional se utiliza cuando el análisis depende de suposiciones específicas sobre las entradas o condiciones del algoritmo. A diferencia de las notaciones generales, aquí se considera que ciertas condiciones deben cumplirse para que la función de complejidad estimada sea válida. Por ejemplo, el rendimiento promedio puede depender de una distribución uniforme de los datos. Esta notación permite análisis más realistas o precisos, aunque menos generales. Es útil para algoritmos cuyo comportamiento varía significativamente según el caso.
 
-![image](https://github.com/user-attachments/assets/ab559518-8b12-4f9e-8418-c8816458600d)
+![image](https://github.com/user-attachments/assets/ab559518-8b12-4f9e-8418-c8816458600d) 
+
+
+##  CLASE SEMANA 6
+
+### 3.1 Estructuras de control
+
+Las estructuras de control son componentes esenciales en todo algoritmo, ya que definen el flujo lógico que sigue un conjunto de instrucciones para resolver un problema. Existen tres tipos principales: la estructura secuencial, donde las instrucciones se ejecutan en el orden en que están escritas; la estructura condicional o de decisión, que permite ejecutar ciertos bloques de código solo si se cumple una condición (por ejemplo, mediante sentencias if, else if y else); y la estructura repetitiva o iterativa, que permite ejecutar instrucciones múltiples veces, como en los bucles while, for o repeat-until. Estas estructuras posibilitan que un algoritmo se adapte a diferentes situaciones y datos de entrada. Gracias a ellas, se logra que los algoritmos no sean rígidos, sino dinámicos y eficientes. Además, permiten implementar soluciones complejas a partir de decisiones simples, mejorando la legibilidad y mantenimiento del código. El correcto uso de estas estructuras evita errores lógicos y redundancias. Son fundamentales tanto para la comprensión como para la construcción de algoritmos eficientes y reutilizables.
+
+![image](https://github.com/user-attachments/assets/e1e4e482-a194-4a2a-9d3a-9afeee879457)
+
+
+##  CLASE SEMANA 7
+
+### 3.2. Análisis del caso medio
+
+El análisis del caso medio estima el rendimiento promedio de un algoritmo considerando todas las posibles entradas bajo una distribución de probabilidad definida. A diferencia del caso peor, que examina el escenario más desfavorable, el caso medio ofrece una visión más realista del comportamiento habitual del algoritmo. Es útil para evaluar el desempeño práctico en situaciones típicas. Este análisis es más complejo, ya que depende de suposiciones sobre los datos. Sin embargo, proporciona una medida valiosa cuando se desea optimizar algoritmos para uso frecuente.
+
+![image](https://github.com/user-attachments/assets/13fe7fd9-5ee0-4846-8aa5-d17313c54b40)
+
+
+### 3.3. Análisis amortizado
+
+El análisis amortizado permite evaluar el costo promedio por operación en una secuencia de operaciones, incluso si algunas son costosas individualmente. Se utiliza cuando ciertas operaciones ocasionales tienen un alto costo, pero su efecto se distribuye entre muchas operaciones baratas. Este análisis se aplica en estructuras como arreglos dinámicos, pilas con doble capacidad o tablas hash. Las técnicas comunes son el método agregado, el método contable y el método potencial. Es clave para demostrar eficiencia a largo plazo en algoritmos dinámicos o adaptativos.
+
+![image](https://github.com/user-attachments/assets/a99c2565-275b-4c08-8250-102cafea3fd7)
+
+
+### 3.4. Recurrencias
+
+Las recurrencias son ecuaciones que expresan el tiempo de ejecución de algoritmos recursivos en función de su tamaño de entrada. Son fundamentales para analizar algoritmos que se dividen en subproblemas, como en el paradigma divide y vencerás. Se resuelven con métodos como la sustitución, el árbol de recurrencia y el teorema maestro. Permiten estimar con precisión el crecimiento de funciones complejas. Comprenderlas es esencial para determinar la eficiencia de algoritmos recursivos y predecir su comportamiento asintótico.
+
+![image](https://github.com/user-attachments/assets/c0a9c541-f02b-4566-981d-2b5f16192e00)
+
+
